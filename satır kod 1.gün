@@ -1,0 +1,120 @@
+    1  sudo su
+    2  su
+    3  sudo su
+    4  python
+    5  sudo apt-get update
+    6  sudo apt-get upgrade
+    7  sudo apt-get install python3.11
+    8  sudo apt-get install python3
+    9  apt-get install python
+   10  sudo su
+   11  ls -l
+   12  cd odabasemre/
+   13  cd /home
+   14  cd /odabasemre
+   15  cd /home/odabasemre
+   16  ls -l
+   17  pwd
+   18  cd 
+   19  cd ..
+   20  exit
+   21  cd /Belgeler
+   22  cd /home/odabasemre
+   23  cd /Belgeler
+   24  cd /home/odabasemre/Belgeler
+   25  ../İndirilenler/
+   26  ../İndirilenler
+   27  cd ../İndirilenler/
+   28  ls -l
+   29  ../
+   30  cd ../
+   31  cd ..
+   32  pwd
+   33  cd home
+   34  cd /Belgeler
+   35  cd /home/Belgeler
+   36  cd /home/odabasemre
+   37  cd /home/odabasemre/Belgeler/
+   38  ls -l
+   39  touch Deneme
+   40  ls -l
+   41  vi Deneme
+   42  cp <Deneme> <deneme2>
+   43  ls -l
+   44  cp Deneme Deneme2
+   45  ls -l
+   46  cp Deneme ../Deneme3
+   47  cd ../
+   48  ls -l
+   49  cd /home/odabasemre/Belgeler
+   50  vi bosdosya
+   51  cp bosdosya ../İndirilenler/
+   52  cd ../
+   53  cd /home/odabasemre/İndirilenler/
+   54  ls -l
+   55  cd ../
+   56  cd /home/odabasemre/Belgeler/
+   57  cd ../
+   58  cd /home/odabasemre/İndirilenler/
+   59  ls -l
+   60  mv bosdosya ../
+   61  ls l-
+   62  ls -l
+   63  ls -l ../
+   64  ../
+   65  cd ..
+   66  cd /home/odabasemre/
+   67  cd /home/
+   68  ls -l
+   69  cd /home/odabasemre/
+   70  ls -l
+   71  mv bosdosya ../home/odabasemre/İndirilenler/
+   72  cd /home/odabasemre/
+   73  ls -l
+   74  mv bosdosya /home/odabasemre/İndirilenler/
+   75  cd /home/odabasemre/İndirilenler/
+   76  ls -l
+   77  mv bosdosya yenidosya
+   78  ls -l
+   79  cd
+   80  cd ../
+   81  cd /home/odabasemre/Masaüstü/
+   82  mkdir PAK23
+   83  ls -l
+   84  pwd
+   85  cd ../
+   86  /home/odabasemre/
+   87  cd /home/odabasemre/
+   88  ls -l
+   89  rm Deneme3
+   90  ls -l
+   91  cd ../
+   92  cd /home/odabasemre/Masaüstü/
+   93  cd ../
+   94  cd /home/odabasemre/
+   95  ls -l
+   96  mkdir PAK2023
+   97  cd /home/odabasemre/PAK2023/
+   98  mkdir -p ./a/b/c/d/e/f
+   99  tree
+  100  tree -L 7
+  101  echo "hello world"
+  102  touch deneme
+  103  echo "hello world" > deneme
+  104  ls -l
+  105  ls -l >> deneme
+  106  man mkdir
+  107  man mkdir >> deneme
+  108  cat deneme
+  109  cd ../
+  110  cd /home/odabasemre/Masaüstü/
+  111  mkdir PAK
+  112  touch PAK
+  113  echo "hello world" >> PAK
+  114  cd /home/odabasemre/Masaüstü/PAK
+  115  ls -l >> PAK
+  116  echo "hello world" >> PAK
+  117  cat PAK
+  118  history
+  119  grep a PAK
+  120  history
