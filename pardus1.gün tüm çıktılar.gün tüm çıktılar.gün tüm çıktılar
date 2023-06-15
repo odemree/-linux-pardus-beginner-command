@@ -1,0 +1,726 @@
+odabasemre@pardusmakinem:~/Masaüstü$ sudo su
+[sudo] password for odabasemre: 
+root@pardusmakinem:/home/odabasemre/Masaüstü# man ls
+root@pardusmakinem:/home/odabasemre/Masaüstü# man
+Hangi kılavuz sayfasını istersiniz?
+For example, try 'man man'.
+root@pardusmakinem:/home/odabasemre/Masaüstü# man ls
+root@pardusmakinem:/home/odabasemre/Masaüstü# pwd
+/home/odabasemre/Masaüstü
+root@pardusmakinem:/home/odabasemre/Masaüstü# pwd
+/home/odabasemre/Masaüstü
+root@pardusmakinem:/home/odabasemre/Masaüstü# cd
+root@pardusmakinem:~# hom
+'hom' komutu bulunamadı, şunu mu demek istediniz:
+  'eom' komutu deb'den eom
+  'gom' komutu deb'den gom
+  'hoz' komutu deb'den hoz
+  'whom' komutu deb'den mmh
+  'whom' komutu deb'den nmh
+  'whom' komutu deb'den mailutils-mh
+  'hot' komutu deb'den hopenpgp-tools
+  'hopm' komutu deb'den hopm
+  'hop' komutu deb'den hopenpgp-tools
+Dene: apt install <deb name>
+root@pardusmakinem:~# /home
+bash: /home: Bir dizin
+root@pardusmakinem:~# cd /home
+root@pardusmakinem:/home# ls
+lost+found  odabasemre
+root@pardusmakinem:/home# cd /home
+root@pardusmakinem:/home# ls -l
+toplam 20
+drwx------  2 root       root       16384 Haz 13 10:18 lost+found
+drwxr-xr-x 14 odabasemre odabasemre  4096 Haz 14 06:54 odabasemre
+root@pardusmakinem:/home# man ls
+root@pardusmakinem:/home# man
+Hangi kılavuz sayfasını istersiniz?
+For example, try 'man man'.
+root@pardusmakinem:/home# exit
+exit
+odabasemre@pardusmakinem:~/Masaüstü$ sudo su
+[sudo] password for odabasemre: 
+Üzgünüm, yeniden deneyin.
+[sudo] password for odabasemre: 
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whereis
+root@pardusmakinem:/home/odabasemre/Masaüstü# where ls
+where: komut bulunamadı
+root@pardusmakinem:/home/odabasemre/Masaüstü# whereis ls
+ls: /usr/bin/ls /usr/share/man/man1/ls.1.gz
+root@pardusmakinem:/home/odabasemre/Masaüstü# whereis python
+python: /usr/bin/python3.9 /usr/bin/python2.7 /usr/bin/python /usr/lib/python3.9 /usr/lib/python2.7 /etc/python3.9 /etc/python2.7 /usr/local/lib/python3.9 /usr/local/lib/python2.7 /usr/include/python3.9 /usr/share/python /usr/share/man/man1/python.1.gz
+root@pardusmakinem:/home/odabasemre/Masaüstü# whereis whereis
+whereis: /usr/bin/whereis /usr/share/man/man1/whereis.1.gz
+root@pardusmakinem:/home/odabasemre/Masaüstü# man which
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whi
+which     whiptail  
+root@pardusmakinem:/home/odabasemre/Masaüstü# man which
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whereis 
+Display all 5567 possibilities? (y or n)
+[                                          gai_error                                  nearbyintf                                 sqrtf
+2to3-2.7                                   gai_strerror                               nearbyintl                                 sqrtl
+30-systemd-environment-d-generator         gai_suspend                                neato                                      srand
+7z                                         gamma                                      neqn                                       srand48
+7za                                        gamma4scanimage                            netcat                                     srand48_r
+7zr                                        gammaf                                     netconfig                                  srandom
+a64l                                       gammal                                     Net::DBus                                  srandom_r
+aa-enabled                                 gapplication                               Net::DBus::Annotation                      srp
+aa-exec                                    gatttool                                   Net::DBus::ASyncReply                      ss
+aa-remove-unknown                          gbak                                       Net::DBus::BaseObject                      sscanf
+aa-status                                  gc                                         Net::DBus::Binding::Bus                    s_server
+aa-teardown                                gcalccmd                                   Net::DBus::Binding::Connection             ssetmask
+abort                                      gcc-ar-10                                  Net::DBus::Binding::Introspector           ssh
+abs                                        gcc-nm-10                                  Net::DBus::Binding::Iterator               ssh-add
+accept                                     gcc-ranlib-10                              Net::DBus::Binding::Message                ssh-agent
+accept4                                    gcvt                                       Net::DBus::Binding::Message::Error         ssh-argv0
+access                                     gdbus                                      Net::DBus::Binding::Message::MethodCall    ssh_config
+access.conf                                gdisk                                      Net::DBus::Binding::Message::MethodReturn  ssh-copy-id
+accessdb                                   gdk-pixbuf-csource                         Net::DBus::Binding::Message::Signal        ssh-keygen
+acct                                       gdk-pixbuf-pixdata                         Net::DBus::Binding::PendingCall            ssh-keyscan
+acl                                        gdk-pixbuf-query-loaders                   Net::DBus::Binding::Server                 ssh-keysign
+aconnect                                   gem2.7                                     Net::DBus::Binding::Value                  ssh-pkcs11-helper
+acos                                       gemfile2.7                                 Net::DBus::Binding::Watch                  ssh-sk-helper
+acosf                                      gencat                                     Net::DBus::Callback                        ssignal
+acosh                                      gendsa                                     Net::DBus::Dumper                          ssize_t
+acoshf                                     genl                                       Net::DBus::Error                           ssl
+acoshl                                     genpkey                                    Net::DBus::Exporter                        st
+acosl                                      genrsa                                     Net::DBus::Object                          STAILQ_CONCAT
+acyclic                                    geqn                                       Net::DBus::ProxyObject                     STAILQ_EMPTY
+add-apt-repository                         GET                                        Net::DBus::Reactor                         STAILQ_ENTRY
+addgnupghome                               getaddrinfo                                Net::DBus::RemoteObject                    STAILQ_FIRST
+addgroup                                   getaddrinfo_a                              Net::DBus::RemoteService                   STAILQ_FOREACH
+add_key                                    getaliasbyname                             Net::DBus::Service                         STAILQ_HEAD
+addmntent                                  getaliasbyname_r                           Net::DBus::Test::MockConnection            STAILQ_HEAD_INITIALIZER
+addpart                                    getaliasent                                Net::DBus::Test::MockIterator              STAILQ_INIT
+addr2line                                  getaliasent_r                              Net::DBus::Test::MockMessage               STAILQ_INSERT_AFTER
+address_families                           getauxval                                  Net::DBus::Test::MockObject                STAILQ_INSERT_HEAD
+addseverity                                get_avphys_pages                           Net::DBus::Tutorial                        STAILQ_INSERT_TAIL
+add-shell                                  getc                                       Net::DBus::Tutorial::ExportingObjects      STAILQ_NEXT
+adduser                                    getcap                                     Net::DBus::Tutorial::UsingObjects          STAILQ_REMOVE
+adduser.conf                               getchar                                    netdevice                                  STAILQ_REMOVE_HEAD
+adjtime                                    getchar_unlocked                           Net::HTTP                                  stailq
+adjtime_config                             getconf                                    Net::HTTP::NB                              standards
+adjtimex                                   getcontext                                 Net::HTTPS                                 start-pulseaudio-x11
+afs_syscall                                getcpu                                     netlink                                    start-stop-daemon
+__after_morecore_hook                      getc_unlocked                              Net::SMTP::SSL                             startx
+agetty                                     get_current_dir_name                       Net::SSLeay                                startxfce4
+aio                                        getcwd                                     Net::SSLeay::Handle                        stat
+aio_cancel                                 getdate                                    netstat                                    stat64
+aiocb                                      getdate_err                                network-admin                              statfs
+aio_error                                  getdate_r                                  networkctl                                 statfs64
+aio_fsync                                  getdelim                                   networkd.conf                              statvfs
+aio_init                                   getdents                                   networkd.conf.d                            statx
+aio_read                                   getdents64                                 NetworkManager                             stdarg
+aio_return                                 getdirentries                              NetworkManager.conf                        stdbuf
+aio_suspend                                getdomainname                              network_namespaces                         stderr
+aio_write                                  getdtablesize                              networks                                   stdin
+alarm                                      getegid                                    newfstatat                                 stdio
+aligned_alloc                              getegid32                                  newgrp                                     stdio_ext
+alloca                                     getent                                     newlocale                                  stdout
+alloc_hugepages                            getentropy                                 _newselect                                 s_time
+alphasort                                  getenv                                     newusers                                   stime
+alsabat                                    geteuid                                    nextafter                                  stl2gts
+alsactl                                    geteuid32                                  nextafterf                                 storeutl
+alsactl_init                               getfacl                                    nextafterl                                 stpcpy
+alsa-info                                  getfsent                                   nextdown                                   stpncpy
+alsaloop                                   getfsfile                                  nextdownf                                  strcasecmp
+alsamixer                                  getfsspec                                  nextdownl                                  strcasestr
+alsatplg                                   getgid                                     nexttoward                                 strcat
+alsaucm                                    getgid32                                   nexttowardf                                strchr
+amdgpu                                     getgrent                                   nexttowardl                                strchrnul
+american-english                           getgrent_r                                 nextup                                     strcmp
+amidi                                      getgrgid                                   nextupf                                    strcoll
+amixer                                     getgrgid_r                                 nextupl                                    strcpy
+ant                                        getgrnam                                   nfnl_osf                                   strcspn
+aplay                                      getgrnam_r                                 nfsservctl                                 strdup
+aplaymidi                                  getgrouplist                               nft                                        strdupa
+apparmor                                   getgroups                                  nftables                                   streamzip
+apparmor.d                                 getgroups32                                nftw                                       strerror
+apparmor_parser                            gethostbyaddr                              ngettext                                   strerrordesc_np
+apparmor_status                            gethostbyaddr_r                            nice                                       strerror_l
+apparmor.vim                               gethostbyname                              nisdomainname                              strerrorname_np
+applygnupgdefaults                         gethostbyname2                             nl                                         strerror_r
+appres                                     gethostbyname2_r                           nl_langinfo                                strfmon
+apropos                                    gethostbyname_r                            nl_langinfo_l                              strfmon_l
+apt                                        gethostent                                 nm                                         strfromd
+apt-add-repository                         gethostent_r                               nm-applet                                  strfromf
+apt_auth.conf                              gethostid                                  nmcli                                      strfroml
+apt-cache                                  gethostname                                nmcli-examples                             strfry
+apt-cdrom                                  getifaddrs                                 nm-connection-editor                       strftime
+apt.conf                                   getipnodebyaddr                            nm-initrd-generator                        string
+apt-config                                 getipnodebyname                            nm-online                                  strings
+apt-extracttemplates                       getitimer                                  nm-settings                                strip
+apt-file                                   get_kernel_syms                            nm-settings-dbus                           strlen
+apt-ftparchive                             getkeycodes                                nm-settings-keyfile                        strncasecmp
+apt-get                                    getline                                    nm-settings-nmcli                          strncat
+apt-key                                    getloadavg                                 nm-system-settings.conf                    strncmp
+apt-listchanges                            getlogin                                   nmtui                                      strncpy
+apt-mark                                   getlogin_r                                 nmtui-connect                              strndup
+apt-patterns                               get_mempolicy                              nmtui-edit                                 strndupa
+AptPkg                                     getmntent                                  nmtui-hostname                             strnlen
+AptPkg::Cache                              getmntent_r                                nohup                                      strpbrk
+AptPkg::Config                             getmsg                                     nologin                                    strptime
+AptPkg::hash                               get_myaddress                              nop                                        strrchr
+AptPkg::PkgRecords                         getnameinfo                                notifier                                   strsep
+AptPkg::Policy                             getnetbyaddr                               notify-send                                strsignal
+AptPkg::Source                             getnetbyaddr_r                             nouveau                                    strspn
+AptPkg::System                             getnetbyname                               nproc                                      strstr
+AptPkg::Version                            getnetbyname_r                             nptl                                       strtod
+apt_preferences                            getnetconfig                               nrand48                                    strtof
+apt-secure                                 getnetent                                  nrand48_r                                  strtoimax
+apt-sortpkgs                               getnetent_r                                nroff                                      strtok
+apt-transport-http                         getnetgrent                                nsenter                                    strtok_r
+apt-transport-https                        getnetgrent_r                              nseq                                       strtol
+apt-transport-mirror                       getnetpath                                 nslookup                                   strtold
+ar                                         get_nprocs                                 nss                                        strtoll
+arch                                       get_nprocs_conf                            nss-systemd                                strtoq
+arch_prctl                                 getOpenFile                                nsswitch.conf                              strtoul
+arecord                                    getopt                                     nstat                                      strtoull
+arecordmidi                                getopt_long                                nsupdate                                   strtoumax
+argz                                       getopt_long_only                           ntfs-3g                                    strtouq
+argz_add                                   getpagesize                                ntfs-3g.probe                              strverscmp
+argz_add_sep                               getpass                                    ntfscat                                    strxfrm
+argz_append                                getpcaps                                   ntfsclone                                  stty
+argz_count                                 getpeername                                ntfscluster                                su
+argz_create                                getpgid                                    ntfscmp                                    subgid
+argz_create_sep                            getpgrp                                    ntfscp                                     subpage_prot
+argz_delete                                get_phys_pages                             ntfsdecrypt                                subscriptions.conf
+argz_extract                               getpid                                     ntfsfallocate                              subuid
+argz_insert                                getpmsg                                    ntfsfix                                    sudo
+argz_next                                  getppid                                    ntfsinfo                                   sudo.conf
+argz_replace                               getpriority                                ntfslabel                                  sudoedit
+argz_stringify                             getprotobyname                             ntfsls                                     sudoers
+arm2hpdl                                   getprotobyname_r                           ntfsprogs                                  sudoers_timestamp
+arm_fadvise                                getprotobynumber                           ntfsrecover                                sudo_logsrvd
+arm_fadvise64_64                           getprotobynumber_r                         ntfsresize                                 sudo_logsrvd.conf
+armscii-8                                  getprotoent                                ntfssecaudit                               sudo_logsrv.proto
+arm_sync_file_range                        getprotoent_r                              ntfstruncate                               sudo_plugin
+arp                                        getpt                                      ntfsundelete                               sudoreplay
+arpd                                       getpw                                      ntfsusermap                                sudo_sendlog
+arptables-nft                              getpwent                                   ntfswipe                                   suffixes
+arptables-nft-restore                      getpwent_r                                 ntohl                                      sulogin
+arptables-nft-save                         getpwnam                                   ntohs                                      sum
+as                                         getpwnam_r                                 ntp_adjtime                                suseconds_t
+ascii                                      getpwuid                                   ntp_gettime                                svc_destroy
+asctime                                    getpwuid_r                                 ntp_gettimex                               svcerr_auth
+asctime_r                                  getrandom                                  null                                       svcerr_decode
+aseqdump                                   getresgid                                  numa                                       svcerr_noproc
+aseqnet                                    getresgid32                                numfmt                                     svcerr_noprog
+root@pardusmakinem:/home/odabasemre/Masaüstü# man whereis
+root@pardusmakinem:/home/odabasemre/Masaüstü# man which
+root@pardusmakinem:/home/odabasemre/Masaüstü# which ls
+/usr/bin/ls
+root@pardusmakinem:/home/odabasemre/Masaüstü# ls
+pardus  start-tor-browser.desktop  tr.org.pardus.mycomputer.desktop
+root@pardusmakinem:/home/odabasemre/Masaüstü# -ls
+'-ls' komutu bulunamadı, şunu mu demek istediniz:
+  'ols' komutu deb'den speech-tools
+  'ils' komutu deb'den sleuthkit
+  'bls' komutu deb'den bacula-sd
+  'als' komutu deb'den atool
+  'i-ls' komutu deb'den integrit
+  'ls' komutu deb'den coreutils
+  'fls' komutu deb'den sleuthkit
+  'jls' komutu deb'den sleuthkit
+  'hls' komutu deb'den hfsutils
+Dene: apt install <deb name>
+root@pardusmakinem:/home/odabasemre/Masaüstü# cd
+root@pardusmakinem:~# cd /home
+root@pardusmakinem:/home# l
+l: komut bulunamadı
+root@pardusmakinem:/home# -l
+-l: komut bulunamadı
+root@pardusmakinem:/home# ls
+lost+found  odabasemre
+root@pardusmakinem:/home# ls -l
+toplam 20
+drwx------  2 root       root       16384 Haz 13 10:18 lost+found
+drwxr-xr-x 14 odabasemre odabasemre  4096 Haz 14 06:54 odabasemre
+root@pardusmakinem:/home# sudo su odabasemre
+odabasemre@pardusmakinem:/home$ ls -l
+toplam 20
+drwx------  2 root       root       16384 Haz 13 10:18 lost+found
+drwxr-xr-x 14 odabasemre odabasemre  4096 Haz 14 06:54 odabasemre
+odabasemre@pardusmakinem:/home$ cd odabasemre/
+odabasemre@pardusmakinem:~$ cd /home
+odabasemre@pardusmakinem:/home$ cd /odabasemre
+bash: cd: /odabasemre: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre
+odabasemre@pardusmakinem:~$ ls -l
+toplam 32
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 06:59 Belgeler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 06:57 İndirilenler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 10:38 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ pwd
+/home/odabasemre
+odabasemre@pardusmakinem:~$ cd 
+odabasemre@pardusmakinem:~$ cd ..
+odabasemre@pardusmakinem:/home$ exit
+exit
+root@pardusmakinem:/home# sudo su
+root@pardusmakinem:/home# sudo su odabasemre
+odabasemre@pardusmakinem:/home$ cd /Belgeler
+bash: cd: /Belgeler: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre
+odabasemre@pardusmakinem:~$ cd /Belgeler
+bash: cd: /Belgeler: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/Belgeler
+odabasemre@pardusmakinem:~/Belgeler$ ../İndirilenler/
+bash: ../İndirilenler/: Bir dizin
+odabasemre@pardusmakinem:~/Belgeler$ ../İndirilenler
+bash: ../İndirilenler: Bir dizin
+odabasemre@pardusmakinem:~/Belgeler$ cd ../İndirilenler/
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103008
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+odabasemre@pardusmakinem:~/İndirilenler$ ../
+bash: ../: Bir dizin
+odabasemre@pardusmakinem:~/İndirilenler$ cd ../
+odabasemre@pardusmakinem:~$ cd ..
+odabasemre@pardusmakinem:/home$ cd ..
+odabasemre@pardusmakinem:/$ cd ..
+odabasemre@pardusmakinem:/$ pwd
+/
+odabasemre@pardusmakinem:/$ cd home
+odabasemre@pardusmakinem:/home$ cd /Belgeler
+bash: cd: /Belgeler: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:/home$ cd /home/Belgeler
+bash: cd: /home/Belgeler: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/Belgeler/
+odabasemre@pardusmakinem:~/Belgeler$ ls -l
+toplam 4
+drwx------ 3 odabasemre odabasemre 4096 Haz 14 06:59 tor-browser
+odabasemre@pardusmakinem:~/Belgeler$ touch Deneme
+odabasemre@pardusmakinem:~/Belgeler$ ls -l
+toplam 4
+-rw-r--r-- 1 odabasemre odabasemre    0 Haz 14 11:58 Deneme
+drwx------ 3 odabasemre odabasemre 4096 Haz 14 06:59 tor-browser
+odabasemre@pardusmakinem:~/Belgeler$ vi Deneme
+odabasemre@pardusmakinem:~/Belgeler$ cp <Deneme> <deneme2>
+bash: beklenmeyen dizgecik `<' yakınında sözdizimi hatası
+odabasemre@pardusmakinem:~/Belgeler$ ls -l
+toplam 8
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:03 Deneme
+drwx------ 3 odabasemre odabasemre 4096 Haz 14 06:59 tor-browser
+odabasemre@pardusmakinem:~/Belgeler$ cp Deneme Deneme2
+odabasemre@pardusmakinem:~/Belgeler$ ls -l
+toplam 12
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:03 Deneme
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:06 Deneme2
+drwx------ 3 odabasemre odabasemre 4096 Haz 14 06:59 tor-browser
+odabasemre@pardusmakinem:~/Belgeler$ cp Deneme ../Deneme3
+odabasemre@pardusmakinem:~/Belgeler$ cd ../
+odabasemre@pardusmakinem:~$ ls -l
+toplam 36
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:06 Belgeler
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:08 Deneme3
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 06:57 İndirilenler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 10:38 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/Belgeler
+odabasemre@pardusmakinem:~/Belgeler$ vi bosdosya
+odabasemre@pardusmakinem:~/Belgeler$ cp bosdosya ../İndirilenler/
+odabasemre@pardusmakinem:~/Belgeler$ cd ../
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/İndirilenler/
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103012
+-rw-r--r-- 1 odabasemre odabasemre        35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+odabasemre@pardusmakinem:~/İndirilenler$ cd ../
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/Belgeler/
+odabasemre@pardusmakinem:~/Belgeler$ cd ../
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/İndirilenler/
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103012
+-rw-r--r-- 1 odabasemre odabasemre        35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+odabasemre@pardusmakinem:~/İndirilenler$ mv bosdosya ../
+odabasemre@pardusmakinem:~/İndirilenler$ ls l-
+ls: 'l-''e erişilemedi: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103008
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l ../
+toplam 40
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+-rw-r--r-- 1 odabasemre odabasemre   35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:08 Deneme3
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 12:24 İndirilenler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 10:38 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~/İndirilenler$ ../
+bash: ../: Bir dizin
+odabasemre@pardusmakinem:~/İndirilenler$ cd ..
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ cd /home/
+odabasemre@pardusmakinem:/home$ ls -l
+toplam 20
+drwx------  2 root       root       16384 Haz 13 10:18 lost+found
+drwxr-xr-x 14 odabasemre odabasemre  4096 Haz 14 12:24 odabasemre
+odabasemre@pardusmakinem:/home$ ls -l
+toplam 20
+drwx------  2 root       root       16384 Haz 13 10:18 lost+found
+drwxr-xr-x 14 odabasemre odabasemre  4096 Haz 14 12:24 odabasemre
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ ls -l
+toplam 40
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+-rw-r--r-- 1 odabasemre odabasemre   35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:08 Deneme3
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 12:24 İndirilenler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 10:38 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ mv bosdosya ../home/odabasemre/İndirilenler/
+mv: 'bosdosya' '../home/odabasemre/İndirilenler/''e taşınamadı: Böyle bir dosya ya da dizin yok
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ ls -l
+toplam 40
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+-rw-r--r-- 1 odabasemre odabasemre   35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:08 Deneme3
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 12:24 İndirilenler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 10:38 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ mv bosdosya /home/odabasemre/İndirilenler/
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/İndirilenler/
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103012
+-rw-r--r-- 1 odabasemre odabasemre        35 Haz 14 12:10 bosdosya
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+odabasemre@pardusmakinem:~/İndirilenler$ mv bosdosya yenidosya
+odabasemre@pardusmakinem:~/İndirilenler$ ls -l
+toplam 103012
+-rw-r--r-- 1 odabasemre odabasemre 105478904 Haz 14 06:56 tor-browser-linux64-12.0.7_ALL.tar.xz
+-rw-r--r-- 1 odabasemre odabasemre        35 Haz 14 12:10 yenidosya
+odabasemre@pardusmakinem:~/İndirilenler$ cd
+odabasemre@pardusmakinem:~$ cd ../
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre/Masaüstü/
+odabasemre@pardusmakinem:~/Masaüstü$ mkdir PAK23
+odabasemre@pardusmakinem:~/Masaüstü$ ls -l
+toplam 12
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 13:48 PAK23
+-rw-r--r-- 1 odabasemre odabasemre    0 Haz 14 10:38 pardus
+-rwx------ 1 odabasemre odabasemre 1710 Oca  1  2000 start-tor-browser.desktop
+-rwxr-xr-x 1 odabasemre odabasemre  645 Haz 13 10:23 tr.org.pardus.mycomputer.desktop
+odabasemre@pardusmakinem:~/Masaüstü$ pwd
+/home/odabasemre/Masaüstü
+odabasemre@pardusmakinem:~/Masaüstü$ cd ../
+odabasemre@pardusmakinem:~$ /home/odabasemre/
+bash: /home/odabasemre/: Bir dizin
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ ls -l
+toplam 36
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+-rw-r--r-- 1 odabasemre odabasemre   24 Haz 14 12:08 Deneme3
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 13:47 İndirilenler
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 13:48 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ rm Deneme3
+odabasemre@pardusmakinem:~$ ls -l
+toplam 32
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 13:47 İndirilenler
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 13:48 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ cd ../
+odabasemre@pardusmakinem:/home$ cd /home/odabasemre/Masaüstü/
+odabasemre@pardusmakinem:~/Masaüstü$ cd ../
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/
+odabasemre@pardusmakinem:~$ ls -l
+toplam 32
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 12:10 Belgeler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Genel
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 14 13:47 İndirilenler
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 13:48 Masaüstü
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Müzik
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Resimler
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Şablonlar
+drwxr-xr-x 2 odabasemre odabasemre 4096 Haz 13 10:23 Videolar
+odabasemre@pardusmakinem:~$ mkdir PAK2023
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/PAK2023/
+odabasemre@pardusmakinem:~/PAK2023$ mkdir -p ./a/b/c/d/e/f
+odabasemre@pardusmakinem:~/PAK2023$ tree
+.
+└── a
+    └── b
+        └── c
+            └── d
+                └── e
+                    └── f
+
+6 directories, 0 files
+odabasemre@pardusmakinem:~/PAK2023$ tree -L 7
+.
+└── a
+    └── b
+        └── c
+            └── d
+                └── e
+                    └── f
+
+6 directories, 0 files
+odabasemre@pardusmakinem:~/PAK2023$ echo "hello world"
+hello world
+odabasemre@pardusmakinem:~/PAK2023$ touch deneme
+odabasemre@pardusmakinem:~/PAK2023$ echo "hello world" > deneme
+odabasemre@pardusmakinem:~/PAK2023$ echo "hello world" > deneme
+odabasemre@pardusmakinem:~/PAK2023$ ls -l
+toplam 8
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 14:05 a
+-rw-r--r-- 1 odabasemre odabasemre   12 Haz 14 14:15 deneme
+odabasemre@pardusmakinem:~/PAK2023$ ls -l >> deneme
+odabasemre@pardusmakinem:~/PAK2023$ man mkdir
+odabasemre@pardusmakinem:~/PAK2023$ man mkdir >> deneme
+odabasemre@pardusmakinem:~/PAK2023$ cat deneme
+hello world
+toplam 8
+drwxr-xr-x 3 odabasemre odabasemre 4096 Haz 14 14:05 a
+-rw-r--r-- 1 odabasemre odabasemre   12 Haz 14 14:15 deneme
+MKDIR(1)                                                                              User Commands                                                                              MKDIR(1)
+
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir [OPTION]... DIRECTORY...
+
+DESCRIPTION
+       Create the DIRECTORY(ies), if they do not already exist.
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -m, --mode=MODE
+              set file mode (as in chmod), not a=rwx - umask
+
+       -p, --parents
+              no error if existing, make parent directories as needed
+
+       -v, --verbose
+              print a message for each created directory
+
+       -Z     set SELinux security context of each created directory to the default type
+
+       --context[=CTX]
+              like -Z, or if CTX is specified then set the SELinux or SMACK security context to CTX
+
+       --help display this help and exit
+
+       --version
+              output version information and exit
+
+AUTHOR
+       Written by David MacKenzie.
+
+REPORTING BUGS
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       Report any translation bugs to <https://translationproject.org/team/>
+
+COPYRIGHT
+       Copyright © 2020 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       mkdir(2)
+
+       Full documentation <https://www.gnu.org/software/coreutils/mkdir>
+       or available locally via: info '(coreutils) mkdir invocation'
+
+GNU coreutils 8.32                                                                    September 2020                                                                             MKDIR(1)
+odabasemre@pardusmakinem:~/PAK2023$ cd ../
+odabasemre@pardusmakinem:~$ cd /home/odabasemre/Masaüstü/
+odabasemre@pardusmakinem:~/Masaüstü$ mkdir PAK
+odabasemre@pardusmakinem:~/Masaüstü$ touch PAK
+odabasemre@pardusmakinem:~/Masaüstü$ echo "hello world" >> PAK
+bash: PAK: Bir dizin
+odabasemre@pardusmakinem:~/Masaüstü$ cd /home/odabasemre/Masaüstü/PAK
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ ls -l >> PAK
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ ls -l >> PAK
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ echo "hello world" >> PAK
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ cat PAK
+toplam 0
+-rw-r--r-- 1 odabasemre odabasemre 0 Haz 14 14:21 PAK
+toplam 4
+-rw-r--r-- 1 odabasemre odabasemre 63 Haz 14 14:21 PAK
+hello world
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ history
+    1  sudo su
+    2  su
+    3  sudo su
+    4  python
+    5  sudo apt-get update
+    6  sudo apt-get upgrade
+    7  sudo apt-get install python3.11
+    8  sudo apt-get install python3
+    9  apt-get install python
+   10  sudo su
+   11  ls -l
+   12  cd odabasemre/
+   13  cd /home
+   14  cd /odabasemre
+   15  cd /home/odabasemre
+   16  ls -l
+   17  pwd
+   18  cd 
+   19  cd ..
+   20  exit
+   21  cd /Belgeler
+   22  cd /home/odabasemre
+   23  cd /Belgeler
+   24  cd /home/odabasemre/Belgeler
+   25  ../İndirilenler/
+   26  ../İndirilenler
+   27  cd ../İndirilenler/
+   28  ls -l
+   29  ../
+   30  cd ../
+   31  cd ..
+   32  pwd
+   33  cd home
+   34  cd /Belgeler
+   35  cd /home/Belgeler
+   36  cd /home/odabasemre
+   37  cd /home/odabasemre/Belgeler/
+   38  ls -l
+   39  touch Deneme
+   40  ls -l
+   41  vi Deneme
+   42  cp <Deneme> <deneme2>
+   43  ls -l
+   44  cp Deneme Deneme2
+   45  ls -l
+   46  cp Deneme ../Deneme3
+   47  cd ../
+   48  ls -l
+   49  cd /home/odabasemre/Belgeler
+   50  vi bosdosya
+   51  cp bosdosya ../İndirilenler/
+   52  cd ../
+   53  cd /home/odabasemre/İndirilenler/
+   54  ls -l
+   55  cd ../
+   56  cd /home/odabasemre/Belgeler/
+   57  cd ../
+   58  cd /home/odabasemre/İndirilenler/
+   59  ls -l
+   60  mv bosdosya ../
+   61  ls l-
+   62  ls -l
+   63  ls -l ../
+   64  ../
+   65  cd ..
+   66  cd /home/odabasemre/
+   67  cd /home/
+   68  ls -l
+   69  cd /home/odabasemre/
+   70  ls -l
+   71  mv bosdosya ../home/odabasemre/İndirilenler/
+   72  cd /home/odabasemre/
+   73  ls -l
+   74  mv bosdosya /home/odabasemre/İndirilenler/
+   75  cd /home/odabasemre/İndirilenler/
+   76  ls -l
+   77  mv bosdosya yenidosya
+   78  ls -l
+   79  cd
+   80  cd ../
+   81  cd /home/odabasemre/Masaüstü/
+   82  mkdir PAK23
+   83  ls -l
+   84  pwd
+   85  cd ../
+   86  /home/odabasemre/
+   87  cd /home/odabasemre/
+   88  ls -l
+   89  rm Deneme3
+   90  ls -l
+   91  cd ../
+   92  cd /home/odabasemre/Masaüstü/
+   93  cd ../
+   94  cd /home/odabasemre/
+   95  ls -l
+   96  mkdir PAK2023
+   97  cd /home/odabasemre/PAK2023/
+   98  mkdir -p ./a/b/c/d/e/f
+   99  tree
+  100  tree -L 7
+  101  echo "hello world"
+  102  touch deneme
+  103  echo "hello world" > deneme
+  104  ls -l
+  105  ls -l >> deneme
+  106  man mkdir
+  107  man mkdir >> deneme
+  108  cat deneme
+  109  cd ../
+  110  cd /home/odabasemre/Masaüstü/
+  111  mkdir PAK
+  112  touch PAK
+  113  echo "hello world" >> PAK
+  114  cd /home/odabasemre/Masaüstü/PAK
+  115  ls -l >> PAK
+  116  echo "hello world" >> PAK
+  117  cat PAK
+  118  history
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ grep a PAK
+toplam 0
+-rw-r--r-- 1 odabasemre odabasemre 0 Haz 14 14:21 PAK
+toplam 4
+-rw-r--r-- 1 odabasemre odabasemre 63 Haz 14 14:21 PAK
+odabasemre@pardusmakinem:~/Masaüstü/PAK$ 
