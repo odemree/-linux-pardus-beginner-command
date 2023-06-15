@@ -1,0 +1,131 @@
+    1  sudo apt-get install build-essential module-assistant
+    2  apt-get update
+    3  sudo apt-get install linux-header-$(uname -r)
+    4  sudo apt-get install linux-headers-$(uname -r)
+    5  cd
+    6  cd /media
+    7  cd /media/cdrom0
+    8  cp VBoxLinuxHeaders.run /root
+    9  cp VBoxLinuxAdditions.run /root
+   10  cd
+   11  cd /media
+   12  cd /media/cdrom0
+   13  cp VBoxLinuxAdditions.run /root
+   14  cd /root/
+   15  chmod 755 VBoxLinuxAdditions.run
+   16  ./VBoxLinuxAdditions.run
+   17  apt-get install python
+   18  python
+   19  apt-get install torbrowser
+   20  man ls
+   21  man
+   22  man ls
+   23  pwd
+   24  cd
+   25  hom
+   26  /home
+   27  cd /home
+   28  ls
+   29  cd /home
+   30  ls -l
+   31  man ls
+   32  man
+   33  exit
+   34  ps
+   35  ps -aux
+   36  ps hesap makinesi
+   37  ps -aux
+   38  ps -aux |grep -i calc
+   39  kill -l 4023
+   40  kill -l 
+   41  kill -l 1
+   42  kill -l 9
+   43  kill -l sigkill
+   44  kill -l 4023 9
+   45  kill -9 4023
+   46  kill -1 4023
+   47  ps -aux
+   48  ps -aux |grep -i calc
+   49  pgrep
+   50  pgrep gnome-calc
+   51  echo merhaba $(emre)
+   52  echo merhaba $(whoami)
+   53  kill -9 $(pgrep gnome-calc)
+   54  pkill gnome-calculato 
+   55  ps 
+   56  ps -aux
+   57  ps -aux | grep odabasemre
+   58  top 
+   59  up time
+   60  uptime
+   61  free
+   62  free -h
+   63  df -h
+   64  htop
+   65  sudo apt install htop
+   66  htop
+   67  ximput
+   68  xkill
+   69  seq 5000
+   70  history
+   71  gnome-calculator 
+   72  gnome-calculator&
+   73  sl
+   74  cd
+   75  sl
+   76  man man
+   77  q
+   78  man man
+   79  man -k
+   80  man -k kullanıcı
+   81  man -k user
+   82  ps tree
+   83  pstree 
+   84  ls- l
+   85  ls -l
+   86  cd /etc
+   87  ls- l
+   88  ls -l
+   89  cd ../
+   90  cd /etc
+   91  ls -l
+   92* 
+   93  cd init.d/
+   94  sudo cups status
+   95  sudo ./cups status
+   96  sudo ./cups stop
+   97  cd
+   98  sudo /etc/init.d/cups start 
+   99  sudo systemctl status cups.service 
+  100  sudo systemctl status networking.service 
+  101  nano ilk.sh
+  102  ls -l
+  103  chmod 744 ilk.sh
+  104  ls -l
+  105  ./ilk.sh
+  106  sudo systemctl status cron.service 
+  107  crontab -l
+  108  crontab -e
+  109  ls -l
+  110  date
+  111  ls
+  112  cat ZAMAN
+  113  hisrty
+  114  history
+  115  man free
+  116  5+6
+  117  man pwd
+  118  pwd
+  119  sudo apt install vim
+  120  cat /etc/apt/sources.list
+  121  sudo apt update
+  122  sudo apt upgrade
+  123  sudo apt install vim-voom
+  124  crul ifconfig.co
+  125  curl ifconfig.co
+  126  sudo apt install curl
+  127  curl ifconfig.co
+  128  ip
+  129  ip inet
+  130  nslookup trendyol.com
+  131  history
